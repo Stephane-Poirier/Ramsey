@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+
+__author__ = 'Stéphane-Poirier'
 
 import numpy as np
 
@@ -35,6 +38,8 @@ class Graph:
                 nb_cliques[2] += 1
                 if nb_cliques[2] == 3:
                     nb_cliques[3] = 1
+        elif len(np.where(self.adjacencies==color)[0]) == 0:
+            None
         else: # greater than 3
             for v in range(self.nb_vertices):
                 color_list = np.where(self.adjacencies[v, :] == color)[0].tolist()

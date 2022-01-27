@@ -1,0 +1,1262 @@
+/Users/poirier/anaconda3/bin/python "/Applications/PyCharm CE.app/Contents/plugins/python-ce/helpers/pydev/pydevd.py" --multiproc --qt-support=auto --client 127.0.0.1 --port 65345 --file /Users/poirier/Documents/personnel/git/Ramsey/ramsey.py -r 10 -n 150 -m triangles
+pydev debugger: process 4681 is connecting
+
+Connected to pydev debugger (build 193.5662.61)
+Triangles method to evaluate expected value of K10
+ size 12 : expected value 0.0
+ size 15 : expected value 1.8189894035458565e-12
+ size 18 : expected value 1.3369572116062045e-10
+ size 21 : expected value 2.186880010413006e-09
+ size 24 : expected value 1.8494574760552496e-08
+ size 27 : expected value 1.0543783446337329e-07
+ size 30 : expected value 4.6028691258470644e-07
+ size 33 : expected value 1.654936625072878e-06
+ size 36 : expected value 5.1317271072548465e-06
+ size 39 : expected value 1.4158313433654257e-05
+ size 42 : expected value 3.553381549181722e-05
+ size 45 : expected value 8.24605997991057e-05
+ size 48 : expected value 0.00017914837417265517
+ size 51 : expected value 0.00036790317085433344
+ size 54 : expected value 0.0007196766104016206
+ size 57 : expected value 0.0013493139339288973
+ size 60 : expected value 0.0024370460216687206
+ size 63 : expected value 0.00425812433786632
+ size 66 : expected value 0.007222901812269811
+ size 69 : expected value 0.011930120443480519
+ size 72 : expected value 0.019236681245729415
+ size 75 : expected value 0.030347747414793957
+ size 78 : expected value 0.04693167061731174
+ size 81 : expected value 0.0712649364672302
+ size 84 : expected value 0.10641310190010245
+ size 87 : expected value 0.15645454764694477
+ size 90 : expected value 0.2267547967009591
+ size 93 : expected value 0.32430015791914
+ size 96 : expected value 0.4581005460631786
+ size 99 : expected value 0.639672509016691
+ size 102 : expected value 0.8836147629751849
+ size 105 : expected value 1.2082899004478804
+ size 108 : expected value 1.6366273972930685
+ size 111 : expected value 2.1970646070876683
+ size 114 : expected value 2.924644097263581
+ size 117 : expected value 3.8622874549848802
+ size 120 : expected value 5.062267575047372
+ size 123 : expected value 6.58790344051215
+ size 126 : expected value 8.515503522694019
+ size 129 : expected value 10.936586163870572
+ size 132 : expected value 13.96040766701492
+ size 135 : expected value 17.716831305340975
+ size 138 : expected value 22.359573083841553
+ size 141 : expected value 28.069862838652682
+ size 144 : expected value 35.06056215134913
+ size 147 : expected value 43.580783587522774
+ size 150 : expected value 53.92105894557346
+5
+nb cliques [[1, 5, 5, 0, 0, 0], [1, 5, 5, 0, 0, 0]]
+nb iter 7
+ 2 copies of G5 (10) gives expectation 25.0 for cliques of size 3
+nb iter 11
+ 3 copies of G5 (15) gives expectation 32.8125 for cliques of size 4
+nb iter 11
+ 3 copies of G5 (15) gives expectation 2.9296875 for cliques of size 5
+nb iter 16
+ 4 copies of G5 (20) gives expectation 21.484375 for cliques of size 5
+nb iter 16
+ 4 copies of G5 (20) gives expectation 1.15966796875 for cliques of size 6
+nb iter 16
+ 4 copies of G5 (20) gives expectation 0.019073486328125 for cliques of size 7
+nb iter 22
+ 5 copies of G5 (25) gives expectation 7.0953369140625 for cliques of size 6
+nb iter 22
+ 5 copies of G5 (25) gives expectation 0.21457672119140625 for cliques of size 7
+time 0.003109999999999946
+13
+nb cliques [[1, 13, 39, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 13, 39, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
+nb iter 11
+ 2 copies of G13 (26) gives expectation 359.125 for cliques of size 4
+nb iter 11
+ 2 copies of G13 (26) gives expectation 63.375 for cliques of size 5
+nb iter 21
+ 3 copies of G13 (39) gives expectation 114.12451171875 for cliques of size 6
+nb iter 21
+ 3 copies of G13 (39) gives expectation 5.22967529296875 for cliques of size 7
+nb iter 21
+ 3 copies of G13 (39) gives expectation 0.07542800903320312 for cliques of size 8
+nb iter 36
+ 4 copies of G13 (52) gives expectation 75.83029174804688 for cliques of size 7
+nb iter 36
+ 4 copies of G13 (52) gives expectation 2.3751965761184692 for cliques of size 8
+nb iter 36
+ 4 copies of G13 (52) gives expectation 0.02785991132259369 for cliques of size 9
+nb iter 57
+ 5 copies of G13 (65) gives expectation 22.40840435028076 for cliques of size 8
+nb iter 57
+ 5 copies of G13 (65) gives expectation 0.42109572561457753 for cliques of size 9
+nb iter 85
+ 6 copies of G13 (78) gives expectation 123.20320639014244 for cliques of size 8
+nb iter 85
+ 6 copies of G13 (78) gives expectation 3.125359881669283 for cliques of size 9
+nb iter 85
+ 6 copies of G13 (78) gives expectation 0.03318815445072687 for cliques of size 10
+nb iter 121
+ 7 copies of G13 (91) gives expectation 15.585600101505406 for cliques of size 9
+nb iter 121
+ 7 copies of G13 (91) gives expectation 0.2110127616738282 for cliques of size 10
+nb iter 166
+ 8 copies of G13 (104) gives expectation 59.960120177362114 for cliques of size 9
+nb iter 166
+ 8 copies of G13 (104) gives expectation 0.9812939153480329 for cliques of size 10
+nb iter 221
+ 9 copies of G13 (117) gives expectation 191.82862711735652 for cliques of size 9
+nb iter 221
+ 9 copies of G13 (117) gives expectation 3.669859669084758 for cliques of size 10
+nb iter 221
+ 9 copies of G13 (117) gives expectation 0.03081902699098471 for cliques of size 11
+nb iter 287
+ 10 copies of G13 (130) gives expectation 11.676477686524152 for cliques of size 10
+nb iter 287
+ 10 copies of G13 (130) gives expectation 0.11272424687752802 for cliques of size 11
+nb iter 365
+ 11 copies of G13 (143) gives expectation 32.78165585049038 for cliques of size 10
+nb iter 365
+ 11 copies of G13 (143) gives expectation 0.35706946741737383 for cliques of size 11
+nb iter 456
+ 12 copies of G13 (156) gives expectation 83.27608478784771 for cliques of size 10
+nb iter 456
+ 12 copies of G13 (156) gives expectation 1.0090892335193538 for cliques of size 11
+nb iter 456
+ 12 copies of G13 (156) gives expectation 0.005481297016230666 for cliques of size 12
+nb iter 561
+ 13 copies of G13 (169) gives expectation 194.91511142122226 for cliques of size 10
+nb iter 561
+ 13 copies of G13 (169) gives expectation 2.5986227808048072 for cliques of size 11
+nb iter 561
+ 13 copies of G13 (169) gives expectation 0.015576843858186099 for cliques of size 12
+time 0.0995379999999999
+17
+nb cliques [[1, 17, 68, 68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 17, 68, 68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
+nb iter 11
+ 2 copies of G17 (34) gives expectation 1156.0 for cliques of size 4
+nb iter 11
+ 2 copies of G17 (34) gives expectation 289.0 for cliques of size 5
+nb iter 21
+ 3 copies of G17 (51) gives expectation 668.3125 for cliques of size 6
+nb iter 21
+ 3 copies of G17 (51) gives expectation 43.1806640625 for cliques of size 7
+nb iter 21
+ 3 copies of G17 (51) gives expectation 0.89959716796875 for cliques of size 8
+nb iter 36
+ 4 copies of G17 (68) gives expectation 580.5400390625 for cliques of size 7
+nb iter 36
+ 4 copies of G17 (68) gives expectation 25.263687133789062 for cliques of size 8
+nb iter 36
+ 4 copies of G17 (68) gives expectation 0.41700077056884766 for cliques of size 9
+nb iter 57
+ 5 copies of G17 (85) gives expectation 225.64895629882812 for cliques of size 8
+nb iter 57
+ 5 copies of G17 (85) gives expectation 5.8465030789375305 for cliques of size 9
+nb iter 57
+ 5 copies of G17 (85) gives expectation 0.06137235928326845 for cliques of size 10
+nb iter 85
+ 6 copies of G17 (102) gives expectation 41.50643818080425 for cliques of size 9
+nb iter 85
+ 6 copies of G17 (102) gives expectation 0.6048706883448176 for cliques of size 10
+nb iter 121
+ 7 copies of G17 (119) gives expectation 200.92526631150395 for cliques of size 9
+nb iter 121
+ 7 copies of G17 (119) gives expectation 3.7011703868047334 for cliques of size 10
+nb iter 121
+ 7 copies of G17 (119) gives expectation 0.029379497160505252 for cliques of size 11
+nb iter 166
+ 8 copies of G17 (136) gives expectation 16.74768260435667 for cliques of size 10
+nb iter 166
+ 8 copies of G17 (136) gives expectation 0.16193772974304466 for cliques of size 11
+nb iter 221
+ 9 copies of G17 (153) gives expectation 61.36220686045681 for cliques of size 10
+nb iter 221
+ 9 copies of G17 (153) gives expectation 0.6964728625237644 for cliques of size 11
+nb iter 287
+ 10 copies of G17 (170) gives expectation 192.15166864645204 for cliques of size 10
+nb iter 287
+ 10 copies of G17 (170) gives expectation 2.497277924509995 for cliques of size 11
+nb iter 287
+ 10 copies of G17 (170) gives expectation 0.014467482174569477 for cliques of size 12
+nb iter 365
+ 11 copies of G17 (187) gives expectation 7.785965369217763 for cliques of size 11
+nb iter 365
+ 11 copies of G17 (187) gives expectation 0.0509782793309621 for cliques of size 12
+nb iter 456
+ 12 copies of G17 (204) gives expectation 21.720524047090638 for cliques of size 11
+nb iter 456
+ 12 copies of G17 (204) gives expectation 0.15836802244872458 for cliques of size 12
+nb iter 561
+ 13 copies of G17 (221) gives expectation 55.33743189352167 for cliques of size 11
+nb iter 561
+ 13 copies of G17 (221) gives expectation 0.4441863230472566 for cliques of size 12
+nb iter 681
+ 14 copies of G17 (238) gives expectation 130.72031458516182 for cliques of size 11
+nb iter 681
+ 14 copies of G17 (238) gives expectation 1.1446236570702262 for cliques of size 12
+nb iter 681
+ 14 copies of G17 (238) gives expectation 0.004553493763168622 for cliques of size 13
+nb iter 817
+ 15 copies of G17 (255) gives expectation 289.6493311153644 for cliques of size 11
+nb iter 817
+ 15 copies of G17 (255) gives expectation 2.746066776392384 for cliques of size 12
+nb iter 817
+ 15 copies of G17 (255) gives expectation 0.011850492278208688 for cliques of size 13
+nb iter 970
+ 16 copies of G17 (272) gives expectation 6.197035135329907 for cliques of size 12
+nb iter 970
+ 16 copies of G17 (272) gives expectation 0.028819156853387175 for cliques of size 13
+nb iter 1141
+ 17 copies of G17 (289) gives expectation 13.26280451286603 for cliques of size 12
+nb iter 1141
+ 17 copies of G17 (289) gives expectation 0.06609721134715646 for cliques of size 13
+time 0.19336200000000003
+29
+nb cliques [[1, 29, 203, 406, 203, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 29, 203, 406, 203, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
+nb iter 16
+ 2 copies of G29 (58) gives expectation 6622.875 for cliques of size 5
+nb iter 16
+ 2 copies of G29 (58) gives expectation 1287.78125 for cliques of size 6
+nb iter 16
+ 2 copies of G29 (58) gives expectation 80.486328125 for cliques of size 7
+nb iter 36
+ 3 copies of G29 (87) gives expectation 202.08041954040527 for cliques of size 8
+nb iter 36
+ 3 copies of G29 (87) gives expectation 4.416333556175232 for cliques of size 9
+nb iter 36
+ 3 copies of G29 (87) gives expectation 0.035059099551290274 for cliques of size 10
+nb iter 71
+ 4 copies of G29 (116) gives expectation 120.43412838876247 for cliques of size 9
+nb iter 71
+ 4 copies of G29 (116) gives expectation 1.8831744901835918 for cliques of size 10
+nb iter 71
+ 4 copies of G29 (116) gives expectation 0.0120591737822906 for cliques of size 11
+nb iter 127
+ 5 copies of G29 (145) gives expectation 27.242761562743908 for cliques of size 10
+nb iter 127
+ 5 copies of G29 (145) gives expectation 0.26212390960346 for cliques of size 11
+nb iter 211
+ 6 copies of G29 (174) gives expectation 212.65208022873685 for cliques of size 10
+nb iter 211
+ 6 copies of G29 (174) gives expectation 2.680687525563247 for cliques of size 11
+nb iter 211
+ 6 copies of G29 (174) gives expectation 0.014842577609502723 for cliques of size 12
+nb iter 331
+ 7 copies of G29 (203) gives expectation 17.67821116778618 for cliques of size 11
+nb iter 331
+ 7 copies of G29 (203) gives expectation 0.12159300669416066 for cliques of size 12
+nb iter 496
+ 8 copies of G29 (232) gives expectation 87.01137056242221 for cliques of size 11
+nb iter 496
+ 8 copies of G29 (232) gives expectation 0.7115220842613781 for cliques of size 12
+nb iter 716
+ 9 copies of G29 (261) gives expectation 346.84266600686817 for cliques of size 11
+nb iter 716
+ 9 copies of G29 (261) gives expectation 3.277415028204515 for cliques of size 12
+nb iter 716
+ 9 copies of G29 (261) gives expectation 0.014013243034209526 for cliques of size 13
+nb iter 1002
+ 10 copies of G29 (290) gives expectation 12.60917601484247 for cliques of size 12
+nb iter 1002
+ 10 copies of G29 (290) gives expectation 0.061291529026041076 for cliques of size 13
+nb iter 1366
+ 11 copies of G29 (319) gives expectation 42.1374774183198 for cliques of size 12
+nb iter 1366
+ 11 copies of G29 (319) gives expectation 0.2291655857450064 for cliques of size 13
+nb iter 1821
+ 12 copies of G29 (348) gives expectation 125.7096571141179 for cliques of size 12
+nb iter 1821
+ 12 copies of G29 (348) gives expectation 0.7555891753443484 for cliques of size 13
+nb iter 2381
+ 13 copies of G29 (377) gives expectation 341.55075289991373 for cliques of size 12
+nb iter 2381
+ 13 copies of G29 (377) gives expectation 2.2468526483678084 for cliques of size 13
+nb iter 2381
+ 13 copies of G29 (377) gives expectation 0.006790550070771002 for cliques of size 14
+nb iter 3061
+ 14 copies of G29 (406) gives expectation 857.940859363621 for cliques of size 12
+nb iter 3061
+ 14 copies of G29 (406) gives expectation 6.128134197536945 for cliques of size 13
+nb iter 3061
+ 14 copies of G29 (406) gives expectation 0.02013698589994621 for cliques of size 14
+nb iter 3877
+ 15 copies of G29 (435) gives expectation 15.530148575755971 for cliques of size 13
+nb iter 3877
+ 15 copies of G29 (435) gives expectation 0.05510510723856559 for cliques of size 14
+nb iter 4846
+ 16 copies of G29 (464) gives expectation 36.944398100310686 for cliques of size 13
+nb iter 4846
+ 16 copies of G29 (464) gives expectation 0.1407344410503035 for cliques of size 14
+nb iter 5986
+ 17 copies of G29 (493) gives expectation 83.1769881269323 for cliques of size 13
+nb iter 5986
+ 17 copies of G29 (493) gives expectation 0.33848670936041064 for cliques of size 14
+nb iter 7316
+ 18 copies of G29 (522) gives expectation 178.41791694961498 for cliques of size 13
+nb iter 7316
+ 18 copies of G29 (522) gives expectation 0.7723323329792744 for cliques of size 14
+nb iter 8856
+ 19 copies of G29 (551) gives expectation 366.6491025752457 for cliques of size 13
+nb iter 8856
+ 19 copies of G29 (551) gives expectation 1.6819689384278091 for cliques of size 14
+nb iter 8856
+ 19 copies of G29 (551) gives expectation 0.003580376164664656 for cliques of size 15
+nb iter 10627
+ 20 copies of G29 (580) gives expectation 725.177034640075 for cliques of size 13
+nb iter 10627
+ 20 copies of G29 (580) gives expectation 3.5138122998750343 for cliques of size 14
+nb iter 10627
+ 20 copies of G29 (580) gives expectation 0.007904339961576634 for cliques of size 15
+nb iter 12651
+ 21 copies of G29 (609) gives expectation 7.071947564582857 for cliques of size 14
+nb iter 12651
+ 21 copies of G29 (609) gives expectation 0.01676093811541703 for cliques of size 15
+nb iter 14951
+ 22 copies of G29 (638) gives expectation 13.761894625106986 for cliques of size 14
+nb iter 14951
+ 22 copies of G29 (638) gives expectation 0.034272364398331104 for cliques of size 15
+nb iter 17551
+ 23 copies of G29 (667) gives expectation 25.974834302050375 for cliques of size 14
+nb iter 17551
+ 23 copies of G29 (667) gives expectation 0.06780731875059401 for cliques of size 15
+nb iter 20476
+ 24 copies of G29 (696) gives expectation 47.68011545117409 for cliques of size 14
+nb iter 20476
+ 24 copies of G29 (696) gives expectation 0.13018783440114642 for cliques of size 15
+nb iter 23752
+ 25 copies of G29 (725) gives expectation 85.32095918814642 for cliques of size 14
+nb iter 23752
+ 25 copies of G29 (725) gives expectation 0.2431843372389783 for cliques of size 15
+nb iter 27406
+ 26 copies of G29 (754) gives expectation 149.14417230314993 for cliques of size 14
+nb iter 27406
+ 26 copies of G29 (754) gives expectation 0.4429401478001425 for cliques of size 15
+nb iter 31466
+ 27 copies of G29 (783) gives expectation 255.1416419232216 for cliques of size 14
+nb iter 31466
+ 27 copies of G29 (783) gives expectation 0.788236125822394 for cliques of size 15
+nb iter 35961
+ 28 copies of G29 (812) gives expectation 427.842116078344 for cliques of size 14
+nb iter 35961
+ 28 copies of G29 (812) gives expectation 1.3728700145995048 for cliques of size 15
+nb iter 35961
+ 28 copies of G29 (812) gives expectation 0.002058584981392282 for cliques of size 16
+nb iter 40921
+ 29 copies of G29 (841) gives expectation 704.2694951578289 for cliques of size 14
+nb iter 40921
+ 29 copies of G29 (841) gives expectation 2.3439102971061976 for cliques of size 15
+nb iter 40921
+ 29 copies of G29 (841) gives expectation 0.003645956293854837 for cliques of size 16
+time 8.346283999999999
+37
+nb cliques [[1, 37, 333, 888, 555, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 37, 333, 888, 555, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
+nb iter 16
+ 2 copies of G37 (74) gives expectation 23615.25 for cliques of size 5
+nb iter 16
+ 2 copies of G37 (74) gives expectation 5967.984375 for cliques of size 6
+nb iter 16
+ 2 copies of G37 (74) gives expectation 481.2890625 for cliques of size 7
+nb iter 36
+ 3 copies of G37 (111) gives expectation 1548.9846668243408 for cliques of size 8
+nb iter 36
+ 3 copies of G37 (111) gives expectation 43.856232047080994 for cliques of size 9
+nb iter 36
+ 3 copies of G37 (111) gives expectation 0.4489812324754894 for cliques of size 10
+nb iter 71
+ 4 copies of G37 (148) gives expectation 1178.2897883355618 for cliques of size 9
+nb iter 71
+ 4 copies of G37 (148) gives expectation 23.904429512447678 for cliques of size 10
+nb iter 71
+ 4 copies of G37 (148) gives expectation 0.198436868189674 for cliques of size 11
+nb iter 127
+ 5 copies of G37 (185) gives expectation 340.5342281327703 for cliques of size 10
+nb iter 127
+ 5 copies of G37 (185) gives expectation 4.249716663793208 for cliques of size 11
+nb iter 127
+ 5 copies of G37 (185) gives expectation 0.022736245671316907 for cliques of size 12
+nb iter 211
+ 6 copies of G37 (222) gives expectation 42.851234682532905 for cliques of size 11
+nb iter 211
+ 6 copies of G37 (222) gives expectation 0.3075534045215124 for cliques of size 12
+nb iter 331
+ 7 copies of G37 (259) gives expectation 279.29515428244355 for cliques of size 11
+nb iter 331
+ 7 copies of G37 (259) gives expectation 2.4872216898318413 for cliques of size 12
+nb iter 331
+ 7 copies of G37 (259) gives expectation 0.009889830167416257 for cliques of size 13
+nb iter 496
+ 8 copies of G37 (296) gives expectation 14.398295512191924 for cliques of size 12
+nb iter 496
+ 8 copies of G37 (296) gives expectation 0.06857004450152723 for cliques of size 13
+nb iter 716
+ 9 copies of G37 (333) gives expectation 65.73025775457432 for cliques of size 12
+nb iter 716
+ 9 copies of G37 (333) gives expectation 0.3632957104473568 for cliques of size 13
+nb iter 1002
+ 10 copies of G37 (370) gives expectation 251.001078697661 for cliques of size 12
+nb iter 1002
+ 10 copies of G37 (370) gives expectation 1.5755527861732297 for cliques of size 13
+nb iter 1002
+ 10 copies of G37 (370) gives expectation 0.004515508457159061 for cliques of size 14
+nb iter 1366
+ 11 copies of G37 (407) gives expectation 833.5416244365643 for cliques of size 12
+nb iter 1366
+ 11 copies of G37 (407) gives expectation 5.84858589534781 for cliques of size 13
+nb iter 1366
+ 11 copies of G37 (407) gives expectation 0.018792895469378432 for cliques of size 14
+nb iter 1821
+ 12 copies of G37 (444) gives expectation 19.16510314582542 for cliques of size 13
+nb iter 1821
+ 12 copies of G37 (444) gives expectation 0.06815464734732411 for cliques of size 14
+nb iter 2381
+ 13 copies of G37 (481) gives expectation 56.68858803584859 for cliques of size 13
+nb iter 2381
+ 13 copies of G37 (481) gives expectation 0.22085026411967512 for cliques of size 14
+nb iter 3061
+ 14 copies of G37 (518) gives expectation 153.9041212479015 for cliques of size 13
+nb iter 3061
+ 14 copies of G37 (518) gives expectation 0.6514698116077328 for cliques of size 14
+nb iter 3877
+ 15 copies of G37 (555) gives expectation 388.4643342731095 for cliques of size 13
+nb iter 3877
+ 15 copies of G37 (555) gives expectation 1.774519133352869 for cliques of size 14
+nb iter 3877
+ 15 copies of G37 (555) gives expectation 0.003752640403365207 for cliques of size 15
+nb iter 4846
+ 16 copies of G37 (592) gives expectation 920.8487645225347 for cliques of size 13
+nb iter 4846
+ 16 copies of G37 (592) gives expectation 4.513516733729538 for cliques of size 14
+nb iter 4846
+ 16 copies of G37 (592) gives expectation 0.010251218824336054 for cliques of size 15
+nb iter 5986
+ 17 copies of G37 (629) gives expectation 10.816385998435448 for cliques of size 14
+nb iter 5986
+ 17 copies of G37 (629) gives expectation 0.026251181226902336 for cliques of size 15
+nb iter 7316
+ 18 copies of G37 (666) gives expectation 24.60032011046137 for cliques of size 14
+nb iter 7316
+ 18 copies of G37 (666) gives expectation 0.06352124397016612 for cliques of size 15
+nb iter 8856
+ 19 copies of G37 (703) gives expectation 53.419032398128365 for cliques of size 14
+nb iter 8856
+ 19 copies of G37 (703) gives expectation 0.1461955909312792 for cliques of size 15
+nb iter 10627
+ 20 copies of G37 (740) gives expectation 111.30722360023499 for cliques of size 14
+nb iter 10627
+ 20 copies of G37 (740) gives expectation 0.321786755059768 for cliques of size 15
+nb iter 12651
+ 21 copies of G37 (777) gives expectation 223.49045084026412 for cliques of size 14
+nb iter 12651
+ 21 copies of G37 (777) gives expectation 0.6804880988542529 for cliques of size 15
+nb iter 14951
+ 22 copies of G37 (814) gives expectation 433.97793562378314 for cliques of size 14
+nb iter 14951
+ 22 copies of G37 (814) gives expectation 1.3880114075717667 for cliques of size 15
+nb iter 14951
+ 22 copies of G37 (814) gives expectation 0.002072299068691691 for cliques of size 16
+nb iter 17551
+ 23 copies of G37 (851) gives expectation 817.5121108382662 for cliques of size 14
+nb iter 17551
+ 23 copies of G37 (851) gives expectation 2.7399725130092056 for cliques of size 15
+nb iter 17551
+ 23 copies of G37 (851) gives expectation 0.004288173093853907 for cliques of size 16
+nb iter 20476
+ 24 copies of G37 (888) gives expectation 1497.9702956625633 for cliques of size 14
+nb iter 20476
+ 24 copies of G37 (888) gives expectation 5.249807947050701 for cliques of size 15
+nb iter 20476
+ 24 copies of G37 (888) gives expectation 0.008593708842470056 for cliques of size 16
+nb iter 23752
+ 25 copies of G37 (925) gives expectation 9.787801532768112 for cliques of size 15
+nb iter 23752
+ 25 copies of G37 (925) gives expectation 0.01672498322126317 for cliques of size 16
+nb iter 27406
+ 26 copies of G37 (962) gives expectation 17.796562239733927 for cliques of size 15
+nb iter 27406
+ 26 copies of G37 (962) gives expectation 0.03168605275374979 for cliques of size 16
+nb iter 31466
+ 27 copies of G37 (999) gives expectation 31.618906582916903 for cliques of size 15
+nb iter 31466
+ 27 copies of G37 (999) gives expectation 0.058560495737950205 for cliques of size 16
+nb iter 35961
+ 28 copies of G37 (1036) gives expectation 54.98841424180239 for cliques of size 15
+nb iter 35961
+ 28 copies of G37 (1036) gives expectation 0.10577607294811717 for cliques of size 16
+nb iter 40921
+ 29 copies of G37 (1073) gives expectation 93.75200186055076 for cliques of size 15
+nb iter 40921
+ 29 copies of G37 (1073) gives expectation 0.18704188233217328 for cliques of size 16
+nb iter 46377
+ 30 copies of G37 (1110) gives expectation 156.91899525232637 for cliques of size 15
+nb iter 46377
+ 30 copies of G37 (1110) gives expectation 0.3242687459224816 for cliques of size 16
+nb iter 52361
+ 31 copies of G37 (1147) gives expectation 258.16395519312067 for cliques of size 15
+nb iter 52361
+ 31 copies of G37 (1147) gives expectation 0.5519073177598334 for cliques of size 16
+nb iter 58906
+ 32 copies of G37 (1184) gives expectation 417.9528372584204 for cliques of size 15
+nb iter 58906
+ 32 copies of G37 (1184) gives expectation 0.9233041770433152 for cliques of size 16
+nb iter 66046
+ 33 copies of G37 (1221) gives expectation 666.5162351703895 for cliques of size 15
+nb iter 66046
+ 33 copies of G37 (1221) gives expectation 1.5198959695207566 for cliques of size 16
+nb iter 66046
+ 33 copies of G37 (1221) gives expectation 0.0016275190571457395 for cliques of size 17
+nb iter 73816
+ 34 copies of G37 (1258) gives expectation 1047.9622052463505 for cliques of size 15
+nb iter 73816
+ 34 copies of G37 (1258) gives expectation 2.464350306469915 for cliques of size 16
+nb iter 73816
+ 34 copies of G37 (1258) gives expectation 0.0027215381349738814 for cliques of size 17
+nb iter 82252
+ 35 copies of G37 (1295) gives expectation 1625.9077397378887 for cliques of size 15
+nb iter 82252
+ 35 copies of G37 (1295) gives expectation 3.939137808550358 for cliques of size 16
+nb iter 82252
+ 35 copies of G37 (1295) gives expectation 0.004482330870448752 for cliques of size 17
+nb iter 91391
+ 36 copies of G37 (1332) gives expectation 6.212504547634245 for cliques of size 16
+nb iter 91391
+ 36 copies of G37 (1332) gives expectation 0.0072773936108741 for cliques of size 17
+nb iter 101271
+ 37 copies of G37 (1369) gives expectation 9.674435020568014 for cliques of size 16
+nb iter 101271
+ 37 copies of G37 (1369) gives expectation 0.011656798301886127 for cliques of size 17
+time 23.307994
+41
+nb cliques [[1, 41, 410, 1230, 1025, 205, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 41, 410, 1230, 1025, 205, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
+nb iter 22
+ 2 copies of G41 (82) gives expectation 13526.796875 for cliques of size 6
+nb iter 22
+ 2 copies of G41 (82) gives expectation 1559.521484375 for cliques of size 7
+nb iter 22
+ 2 copies of G41 (82) gives expectation 62.842559814453125 for cliques of size 8
+nb iter 22
+ 2 copies of G41 (82) gives expectation 0.8015632629394531 for cliques of size 9
+nb iter 57
+ 3 copies of G41 (123) gives expectation 4447.7142333984375 for cliques of size 8
+nb iter 57
+ 3 copies of G41 (123) gives expectation 165.08195400238037 for cliques of size 9
+nb iter 57
+ 3 copies of G41 (123) gives expectation 2.4626935366541147 for cliques of size 10
+nb iter 57
+ 3 copies of G41 (123) gives expectation 0.014498643668048317 for cliques of size 11
+nb iter 127
+ 4 copies of G41 (164) gives expectation 87.53653999883682 for cliques of size 10
+nb iter 127
+ 4 copies of G41 (164) gives expectation 0.9240895144102979 for cliques of size 11
+nb iter 253
+ 5 copies of G41 (205) gives expectation 1105.1549206968048 for cliques of size 10
+nb iter 253
+ 5 copies of G41 (205) gives expectation 16.372460551934864 for cliques of size 11
+nb iter 253
+ 5 copies of G41 (205) gives expectation 0.10644274759491479 for cliques of size 12
+nb iter 463
+ 6 copies of G41 (246) gives expectation 152.3014408022334 for cliques of size 11
+nb iter 463
+ 6 copies of G41 (246) gives expectation 1.2792481683335244 for cliques of size 12
+nb iter 463
+ 6 copies of G41 (246) gives expectation 0.004800842968475575 for cliques of size 13
+nb iter 793
+ 7 copies of G41 (287) gives expectation 951.6356305947165 for cliques of size 11
+nb iter 793
+ 7 copies of G41 (287) gives expectation 9.738338225948908 for cliques of size 12
+nb iter 793
+ 7 copies of G41 (287) gives expectation 0.04492844686540842 for cliques of size 13
+nb iter 1288
+ 8 copies of G41 (328) gives expectation 54.42029607079394 for cliques of size 12
+nb iter 1288
+ 8 copies of G41 (328) gives expectation 0.29670630591490516 for cliques of size 13
+nb iter 2003
+ 9 copies of G41 (369) gives expectation 242.92537731648525 for cliques of size 12
+nb iter 2003
+ 9 copies of G41 (369) gives expectation 1.5245460212831001 for cliques of size 13
+nb iter 2003
+ 9 copies of G41 (369) gives expectation 0.004374140774506449 for cliques of size 14
+nb iter 3004
+ 10 copies of G41 (410) gives expectation 913.6768665597658 for cliques of size 12
+nb iter 3004
+ 10 copies of G41 (410) gives expectation 6.476959930523497 for cliques of size 13
+nb iter 3004
+ 10 copies of G41 (410) gives expectation 0.021051031317875318 for cliques of size 14
+nb iter 4369
+ 11 copies of G41 (451) gives expectation 23.696502661709545 for cliques of size 13
+nb iter 4369
+ 11 copies of G41 (451) gives expectation 0.08594600421114262 for cliques of size 14
+nb iter 6189
+ 12 copies of G41 (492) gives expectation 76.82932354255612 for cliques of size 13
+nb iter 6189
+ 12 copies of G41 (492) gives expectation 0.3073626009718303 for cliques of size 14
+nb iter 8569
+ 13 copies of G41 (533) gives expectation 225.4365436661309 for cliques of size 13
+nb iter 8569
+ 13 copies of G41 (533) gives expectation 0.9855584296330941 for cliques of size 14
+nb iter 11629
+ 14 copies of G41 (574) gives expectation 608.2437875864374 for cliques of size 13
+nb iter 11629
+ 14 copies of G41 (574) gives expectation 2.8837004514337514 for cliques of size 14
+nb iter 11629
+ 14 copies of G41 (574) gives expectation 0.006334516259148776 for cliques of size 15
+nb iter 15505
+ 15 copies of G41 (615) gives expectation 7.804641497397603 for cliques of size 14
+nb iter 15505
+ 15 copies of G41 (615) gives expectation 0.01848942273339985 for cliques of size 15
+nb iter 20350
+ 16 copies of G41 (656) gives expectation 19.749244010032402 for cliques of size 14
+nb iter 20350
+ 16 copies of G41 (656) gives expectation 0.05017708773434103 for cliques of size 15
+nb iter 26335
+ 17 copies of G41 (697) gives expectation 47.12931475234627 for cliques of size 14
+nb iter 26335
+ 17 copies of G41 (697) gives expectation 0.12780631176559926 for cliques of size 15
+nb iter 33650
+ 18 copies of G41 (738) gives expectation 106.8162609877177 for cliques of size 14
+nb iter 33650
+ 18 copies of G41 (738) gives expectation 0.30789362985402047 for cliques of size 15
+nb iter 42505
+ 19 copies of G41 (779) gives expectation 231.27299126353267 for cliques of size 14
+nb iter 42505
+ 19 copies of G41 (779) gives expectation 0.7060066183987521 for cliques of size 15
+nb iter 53131
+ 20 copies of G41 (820) gives expectation 480.7042200551031 for cliques of size 14
+nb iter 53131
+ 20 copies of G41 (820) gives expectation 1.5491149127603538 for cliques of size 15
+nb iter 53131
+ 20 copies of G41 (820) gives expectation 0.002330695081928812 for cliques of size 16
+nb iter 65781
+ 21 copies of G41 (861) gives expectation 963.1506388865455 for cliques of size 14
+nb iter 65781
+ 21 copies of G41 (861) gives expectation 3.267198280596934 for cliques of size 15
+nb iter 65781
+ 21 copies of G41 (861) gives expectation 0.005176007340391396 for cliques of size 16
+nb iter 80731
+ 22 copies of G41 (902) gives expectation 6.648875626591515 for cliques of size 15
+nb iter 80731
+ 22 copies of G41 (902) gives expectation 0.011062390203374893 for cliques of size 16
+nb iter 98281
+ 23 copies of G41 (943) gives expectation 13.098849939340742 for cliques of size 15
+nb iter 98281
+ 23 copies of G41 (943) gives expectation 0.02283449454779173 for cliques of size 16
+nb iter 118756
+ 24 copies of G41 (984) gives expectation 25.053646348979353 for cliques of size 15
+nb iter 118756
+ 24 copies of G41 (984) gives expectation 0.04566241837919046 for cliques of size 16
+nb iter 142507
+ 25 copies of G41 (1025) gives expectation 46.63843833993315 for cliques of size 15
+nb iter 142507
+ 25 copies of G41 (1025) gives expectation 0.08869864043365887 for cliques of size 16
+nb iter 169912
+ 26 copies of G41 (1066) gives expectation 84.6842458866012 for cliques of size 15
+nb iter 169912
+ 26 copies of G41 (1066) gives expectation 0.1677598493066133 for cliques of size 16
+nb iter 201377
+ 27 copies of G41 (1107) gives expectation 150.27465044484418 for cliques of size 15
+nb iter 201377
+ 27 copies of G41 (1107) gives expectation 0.3095809167854458 for cliques of size 16
+nb iter 237337
+ 28 copies of G41 (1148) gives expectation 261.0584068979323 for cliques of size 15
+nb iter 237337
+ 28 copies of G41 (1148) gives expectation 0.558438591697843 for cliques of size 16
+nb iter 278257
+ 29 copies of G41 (1189) gives expectation 444.653895890422 for cliques of size 15
+nb iter 278257
+ 29 copies of G41 (1189) gives expectation 0.9862899179107585 for cliques of size 16
+nb iter 324633
+ 30 copies of G41 (1230) gives expectation 743.5893318035316 for cliques of size 15
+nb iter 324633
+ 30 copies of G41 (1230) gives expectation 1.708046410191593 for cliques of size 16
+nb iter 324633
+ 30 copies of G41 (1230) gives expectation 0.0018424164867824277 for cliques of size 17
+nb iter 376993
+ 31 copies of G41 (1271) gives expectation 1222.3764246550654 for cliques of size 15
+nb iter 376993
+ 31 copies of G41 (1271) gives expectation 2.904249547659792 for cliques of size 16
+nb iter 376993
+ 31 copies of G41 (1271) gives expectation 0.0032406553508313933 for cliques of size 17
+nb iter 435898
+ 32 copies of G41 (1312) gives expectation 1977.5137344626437 for cliques of size 15
+nb iter 435898
+ 32 copies of G41 (1312) gives expectation 4.854276236211961 for cliques of size 16
+nb iter 435898
+ 32 copies of G41 (1312) gives expectation 0.005596848368297313 for cliques of size 17
+nb iter 501943
+ 33 copies of G41 (1353) gives expectation 7.9843468735702094 for cliques of size 16
+nb iter 501943
+ 33 copies of G41 (1353) gives expectation 0.0095021112752512 for cliques of size 17
+nb iter 575758
+ 34 copies of G41 (1394) gives expectation 12.93611050940379 for cliques of size 16
+nb iter 575758
+ 34 copies of G41 (1394) gives expectation 0.01587510736283399 for cliques of size 17
+nb iter 658009
+ 35 copies of G41 (1435) gives expectation 20.66353574491845 for cliques of size 16
+nb iter 658009
+ 35 copies of G41 (1435) gives expectation 0.02612442570473635 for cliques of size 17
+nb iter 749399
+ 36 copies of G41 (1476) gives expectation 32.56835748237198 for cliques of size 16
+nb iter 749399
+ 36 copies of G41 (1476) gives expectation 0.04238264200032258 for cliques of size 17
+nb iter 850669
+ 37 copies of G41 (1517) gives expectation 50.687557660802504 for cliques of size 16
+nb iter 850669
+ 37 copies of G41 (1517) gives expectation 0.06784007943637689 for cliques of size 17
+nb iter 962599
+ 38 copies of G41 (1558) gives expectation 77.95046028267943 for cliques of size 16
+nb iter 962599
+ 38 copies of G41 (1558) gives expectation 0.10721591316054696 for cliques of size 17
+nb iter 1086009
+ 39 copies of G41 (1599) gives expectation 118.52819792056144 for cliques of size 16
+nb iter 1086009
+ 39 copies of G41 (1599) gives expectation 0.16741676944148295 for cliques of size 17
+nb iter 1221760
+ 40 copies of G41 (1640) gives expectation 178.30479730290082 for cliques of size 16
+nb iter 1221760
+ 40 copies of G41 (1640) gives expectation 0.25844910214813305 for cliques of size 17
+nb iter 1370755
+ 41 copies of G41 (1681) gives expectation 265.50721845323113 for cliques of size 16
+nb iter 1370755
+ 41 copies of G41 (1681) gives expectation 0.39467229009476906 for cliques of size 17
+time 276.781532
+53
+nb cliques [[1, 53, 689, 2756, 3445, 1378, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 53, 689, 2756, 3445, 1378, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
+nb iter 22
+ 2 copies of G53 (106) gives expectation 75886.890625 for cliques of size 6
+nb iter 22
+ 2 copies of G53 (106) gives expectation 12980.65234375 for cliques of size 7
+nb iter 22
+ 2 copies of G53 (106) gives expectation 825.7781066894531 for cliques of size 8
+nb iter 22
+ 2 copies of G53 (106) gives expectation 18.109169006347656 for cliques of size 9
+nb iter 57
+ 3 copies of G53 (159) gives expectation 2282.8305267095566 for cliques of size 9
+nb iter 57
+ 3 copies of G53 (159) gives expectation 50.28543969383463 for cliques of size 10
+nb iter 57
+ 3 copies of G53 (159) gives expectation 0.45308499229577137 for cliques of size 11
+nb iter 127
+ 4 copies of G53 (212) gives expectation 1463.019968172186 for cliques of size 10
+nb iter 127
+ 4 copies of G53 (212) gives expectation 21.81874258253083 for cliques of size 11
+nb iter 127
+ 4 copies of G53 (212) gives expectation 0.141179287586918 for cliques of size 12
+nb iter 253
+ 5 copies of G53 (265) gives expectation 343.1267601803695 for cliques of size 11
+nb iter 253
+ 5 copies of G53 (265) gives expectation 3.086957384934087 for cliques of size 12
+nb iter 253
+ 5 copies of G53 (265) gives expectation 0.012366286000139191 for cliques of size 13
+nb iter 463
+ 6 copies of G53 (318) gives expectation 34.122334731660004 for cliques of size 12
+nb iter 463
+ 6 copies of G53 (318) gives expectation 0.1751244044273027 for cliques of size 13
+nb iter 793
+ 7 copies of G53 (371) gives expectation 247.1365555287528 for cliques of size 12
+nb iter 793
+ 7 copies of G53 (371) gives expectation 1.5366201257623544 for cliques of size 13
+nb iter 793
+ 7 copies of G53 (371) gives expectation 0.004353965537620285 for cliques of size 14
+nb iter 1288
+ 8 copies of G53 (424) gives expectation 1337.2125588889508 for cliques of size 12
+nb iter 1288
+ 8 copies of G53 (424) gives expectation 9.734035341021821 for cliques of size 13
+nb iter 1288
+ 8 copies of G53 (424) gives expectation 0.032436554408718725 for cliques of size 14
+nb iter 2003
+ 9 copies of G53 (477) gives expectation 48.605934940720644 for cliques of size 13
+nb iter 2003
+ 9 copies of G53 (477) gives expectation 0.18579910253630288 for cliques of size 14
+nb iter 3004
+ 10 copies of G53 (530) gives expectation 202.29527489991636 for cliques of size 13
+nb iter 3004
+ 10 copies of G53 (530) gives expectation 0.8712942218647846 for cliques of size 14
+nb iter 4369
+ 11 copies of G53 (583) gives expectation 728.8382453305716 for cliques of size 13
+nb iter 4369
+ 11 copies of G53 (583) gives expectation 3.4892314074706112 for cliques of size 14
+nb iter 4369
+ 11 copies of G53 (583) gives expectation 0.007731833076270557 for cliques of size 15
+nb iter 6189
+ 12 copies of G53 (636) gives expectation 12.294741209425487 for cliques of size 14
+nb iter 6189
+ 12 copies of G53 (636) gives expectation 0.029997047315862703 for cliques of size 15
+nb iter 8569
+ 13 copies of G53 (689) gives expectation 38.966398387208415 for cliques of size 14
+nb iter 8569
+ 13 copies of G53 (689) gives expectation 0.10374651526712299 for cliques of size 15
+nb iter 11629
+ 14 copies of G53 (742) gives expectation 112.95261256332114 for cliques of size 14
+nb iter 11629
+ 14 copies of G53 (742) gives expectation 0.3257660096330456 for cliques of size 15
+nb iter 15505
+ 15 copies of G53 (795) gives expectation 303.3761029071923 for cliques of size 14
+nb iter 15505
+ 15 copies of G53 (795) gives expectation 0.9419619571713661 for cliques of size 15
+nb iter 20350
+ 16 copies of G53 (848) gives expectation 762.829878884199 for cliques of size 14
+nb iter 20350
+ 16 copies of G53 (848) gives expectation 2.536502649970553 for cliques of size 15
+nb iter 20350
+ 16 copies of G53 (848) gives expectation 0.003936241546658677 for cliques of size 16
+nb iter 26335
+ 17 copies of G53 (901) gives expectation 1810.7429163958122 for cliques of size 14
+nb iter 26335
+ 17 copies of G53 (901) gives expectation 6.4186892732663425 for cliques of size 15
+nb iter 26335
+ 17 copies of G53 (901) gives expectation 0.01062350509166846 for cliques of size 16
+nb iter 33650
+ 18 copies of G53 (954) gives expectation 15.377578539634799 for cliques of size 15
+nb iter 33650
+ 18 copies of G53 (954) gives expectation 0.02703534560306162 for cliques of size 16
+nb iter 42505
+ 19 copies of G53 (1007) gives expectation 35.093957676736146 for cliques of size 15
+nb iter 42505
+ 19 copies of G53 (1007) gives expectation 0.06530678198697695 for cliques of size 16
+nb iter 53131
+ 20 copies of G53 (1060) gives expectation 76.68696673974218 for cliques of size 15
+nb iter 53131
+ 20 copies of G53 (1060) gives expectation 0.15057885868339047 for cliques of size 16
+nb iter 65781
+ 21 copies of G53 (1113) gives expectation 161.15941492968753 for cliques of size 15
+nb iter 65781
+ 21 copies of G53 (1113) gives expectation 0.33296263586731173 for cliques of size 16
+nb iter 80731
+ 22 copies of G53 (1166) gives expectation 326.93353623824635 for cliques of size 15
+nb iter 80731
+ 22 copies of G53 (1166) gives expectation 0.7089264462852298 for cliques of size 16
+nb iter 98281
+ 23 copies of G53 (1219) gives expectation 642.2933194195283 for cliques of size 15
+nb iter 98281
+ 23 copies of G53 (1219) gives expectation 1.4584346150865317 for cliques of size 16
+nb iter 98281
+ 23 copies of G53 (1219) gives expectation 0.0015545834060042682 for cliques of size 17
+nb iter 118756
+ 24 copies of G53 (1272) gives expectation 1225.4436796109355 for cliques of size 15
+nb iter 118756
+ 24 copies of G53 (1272) gives expectation 2.9077659592497653 for cliques of size 16
+nb iter 118756
+ 24 copies of G53 (1272) gives expectation 0.003239461153560455 for cliques of size 17
+nb iter 142507
+ 25 copies of G53 (1325) gives expectation 2276.155035603164 for cliques of size 15
+nb iter 142507
+ 25 copies of G53 (1325) gives expectation 5.633259697074348 for cliques of size 16
+nb iter 142507
+ 25 copies of G53 (1325) gives expectation 0.006546820583532312 for cliques of size 17
+nb iter 169912
+ 26 copies of G53 (1378) gives expectation 10.628955254705854 for cliques of size 16
+nb iter 169912
+ 26 copies of G53 (1378) gives expectation 0.012863510305584464 for cliques of size 17
+nb iter 201377
+ 27 copies of G53 (1431) gives expectation 19.572110349532 for cliques of size 16
+nb iter 201377
+ 27 copies of G53 (1431) gives expectation 0.024626744353885018 for cliques of size 17
+nb iter 237337
+ 28 copies of G53 (1484) gives expectation 35.236073290866436 for cliques of size 16
+nb iter 237337
+ 28 copies of G53 (1484) gives expectation 0.046027086729249475 for cliques of size 17
+nb iter 278257
+ 29 copies of G53 (1537) gives expectation 62.12146734686435 for cliques of size 16
+nb iter 278257
+ 29 copies of G53 (1537) gives expectation 0.0841256542080201 for cliques of size 17
+nb iter 324633
+ 30 copies of G53 (1590) gives expectation 107.40605536835726 for cliques of size 16
+nb iter 324633
+ 30 copies of G53 (1590) gives expectation 0.15059935602147348 for cliques of size 17
+nb iter 376993
+ 31 copies of G53 (1643) gives expectation 182.353444589145 for cliques of size 16
+nb iter 376993
+ 31 copies of G53 (1643) gives expectation 0.2644240618534066 for cliques of size 17
+nb iter 435898
+ 32 copies of G53 (1696) gives expectation 304.3740418364744 for cliques of size 16
+nb iter 435898
+ 32 copies of G53 (1696) gives expectation 0.4559389254175235 for cliques of size 17
+nb iter 501943
+ 33 copies of G53 (1749) gives expectation 500.00220696798226 for cliques of size 16
+nb iter 501943
+ 33 copies of G53 (1749) gives expectation 0.7729180312955081 for cliques of size 17
+nb iter 575758
+ 34 copies of G53 (1802) gives expectation 809.1461045815502 for cliques of size 16
+nb iter 575758
+ 34 copies of G53 (1802) gives expectation 1.2895238604098571 for cliques of size 17
+nb iter 575758
+ 34 copies of G53 (1802) gives expectation 0.0009691540878529192 for cliques of size 18
+nb iter 658009
+ 35 copies of G53 (1855) gives expectation 1291.0871164462142 for cliques of size 16
+nb iter 658009
+ 35 copies of G53 (1855) gives expectation 2.119350800436198 for cliques of size 17
+nb iter 658009
+ 35 copies of G53 (1855) gives expectation 0.0016407318884136884 for cliques of size 18
+nb iter 749399
+ 36 copies of G53 (1908) gives expectation 2032.8609074605827 for cliques of size 16
+nb iter 749399
+ 36 copies of G53 (1908) gives expectation 3.434211249781513 for cliques of size 17
+nb iter 749399
+ 36 copies of G53 (1908) gives expectation 0.0027362657130585275 for cliques of size 18
+nb iter 850669
+ 37 copies of G53 (1961) gives expectation 5.49090324430922 for cliques of size 17
+nb iter 850669
+ 37 copies of G53 (1961) gives expectation 0.00449902229340636 for cliques of size 18
+nb iter 962599
+ 38 copies of G53 (2014) gives expectation 8.668966017553688 for cliques of size 17
+nb iter 962599
+ 38 copies of G53 (2014) gives expectation 0.0072987918070107245 for cliques of size 18
+nb iter 1086009
+ 39 copies of G53 (2067) gives expectation 13.523426619896508 for cliques of size 17
+nb iter 1086009
+ 39 copies of G53 (2067) gives expectation 0.011691332129988062 for cliques of size 18
+nb iter 1221760
+ 40 copies of G53 (2120) gives expectation 20.85782564922017 for cliques of size 17
+nb iter 1221760
+ 40 copies of G53 (2120) gives expectation 0.018502938267328208 for cliques of size 18
+nb iter 1370755
+ 41 copies of G53 (2173) gives expectation 31.824455143341993 for cliques of size 17
+nb iter 1370755
+ 41 copies of G53 (2173) gives expectation 0.028949642958071953 for cliques of size 18
+nb iter 1533940
+ 42 copies of G53 (2226) gives expectation 48.06083383112367 for cliques of size 17
+nb iter 1533940
+ 42 copies of G53 (2226) gives expectation 0.04480375432297468 for cliques of size 18
+nb iter 1712305
+ 43 copies of G53 (2279) gives expectation 71.87408921692743 for cliques of size 17
+nb iter 1712305
+ 43 copies of G53 (2279) gives expectation 0.06862458749187703 for cliques of size 18
+nb iter 1906885
+ 44 copies of G53 (2332) gives expectation 106.48823833717964 for cliques of size 17
+nb iter 1906885
+ 44 copies of G53 (2332) gives expectation 0.1040755968129653 for cliques of size 18
+nb iter 2118761
+ 45 copies of G53 (2385) gives expectation 156.37350990097843 for cliques of size 17
+nb iter 2118761
+ 45 copies of G53 (2385) gives expectation 0.15635696654773637 for cliques of size 18
+nb iter 2349061
+ 46 copies of G53 (2438) gives expectation 227.68200876687567 for cliques of size 17
+nb iter 2349061
+ 46 copies of G53 (2438) gives expectation 0.23279144024230983 for cliques of size 18
+nb iter 2598961
+ 47 copies of G53 (2491) gives expectation 328.82040109823726 for cliques of size 17
+nb iter 2598961
+ 47 copies of G53 (2491) gives expectation 0.3436122102615988 for cliques of size 18
+nb iter 2869686
+ 48 copies of G53 (2544) gives expectation 471.1981448542296 for cliques of size 17
+nb iter 2869686
+ 48 copies of G53 (2544) gives expectation 0.5030155902727639 for cliques of size 18
+nb iter 3162511
+ 49 copies of G53 (2597) gives expectation 670.1993989779392 for cliques of size 17
+nb iter 3162511
+ 49 copies of G53 (2597) gives expectation 0.7305586052023773 for cliques of size 18
+nb iter 3478762
+ 50 copies of G53 (2650) gives expectation 946.4384592896972 for cliques of size 17
+nb iter 3478762
+ 50 copies of G53 (2650) gives expectation 1.0530033341491476 for cliques of size 18
+nb iter 3478762
+ 50 copies of G53 (2650) gives expectation 0.000554528416853643 for cliques of size 19
+nb iter 3819817
+ 51 copies of G53 (2703) gives expectation 1327.3727904793068 for cliques of size 17
+nb iter 3819817
+ 51 copies of G53 (2703) gives expectation 1.5067367606826363 for cliques of size 18
+nb iter 3819817
+ 51 copies of G53 (2703) gives expectation 0.0008095586979164846 for cliques of size 19
+nb iter 4187107
+ 52 copies of G53 (2756) gives expectation 1849.3649177481732 for cliques of size 17
+nb iter 4187107
+ 52 copies of G53 (2756) gives expectation 2.1409281253600287 for cliques of size 18
+nb iter 4187107
+ 52 copies of G53 (2756) gives expectation 0.0011731602421737094 for cliques of size 19
+nb iter 4582117
+ 53 copies of G53 (2809) gives expectation 2560.3051487495118 for cliques of size 17
+nb iter 4582117
+ 53 copies of G53 (2809) gives expectation 3.0216266434084584 for cliques of size 18
+nb iter 4582117
+ 53 copies of G53 (2809) gives expectation 0.0016880078949857336 for cliques of size 19
+time 1300.958104
+61
+nb cliques [[1, 61, 915, 4270, 6100, 1830, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 61, 915, 4270, 6100, 1830, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
+nb iter 22
+ 2 copies of G61 (122) gives expectation 172386.953125 for cliques of size 6
+nb iter 22
+ 2 copies of G61 (122) gives expectation 31977.34375 for cliques of size 7
+nb iter 22
+ 2 copies of G61 (122) gives expectation 2089.4287109375 for cliques of size 8
+nb iter 22
+ 2 copies of G61 (122) gives expectation 42.583465576171875 for cliques of size 9
+nb iter 57
+ 3 copies of G61 (183) gives expectation 7591.090479493141 for cliques of size 9
+nb iter 57
+ 3 copies of G61 (183) gives expectation 181.02235374972224 for cliques of size 10
+nb iter 57
+ 3 copies of G61 (183) gives expectation 1.7127749386418145 for cliques of size 11
+nb iter 57
+ 3 copies of G61 (183) gives expectation 0.006199591695121853 for cliques of size 12
+nb iter 127
+ 4 copies of G61 (244) gives expectation 5800.558145271498 for cliques of size 10
+nb iter 127
+ 4 copies of G61 (244) gives expectation 96.52700015471964 for cliques of size 11
+nb iter 127
+ 4 copies of G61 (244) gives expectation 0.6875400109791929 for cliques of size 12
+nb iter 253
+ 5 copies of G61 (305) gives expectation 1589.875888817046 for cliques of size 11
+nb iter 253
+ 5 copies of G61 (305) gives expectation 16.151265083726663 for cliques of size 12
+nb iter 253
+ 5 copies of G61 (305) gives expectation 0.07248213320550913 for cliques of size 13
+nb iter 463
+ 6 copies of G61 (366) gives expectation 183.50827311985245 for cliques of size 12
+nb iter 463
+ 6 copies of G61 (366) gives expectation 1.0698874109498964 for cliques of size 13
+nb iter 463
+ 6 copies of G61 (366) gives expectation 0.002806202934492107 for cliques of size 14
+nb iter 793
+ 7 copies of G61 (427) gives expectation 1344.803352265941 for cliques of size 12
+nb iter 793
+ 7 copies of G61 (427) gives expectation 9.56278871253801 for cliques of size 13
+nb iter 793
+ 7 copies of G61 (427) gives expectation 0.030888162371391494 for cliques of size 14
+nb iter 1288
+ 8 copies of G61 (488) gives expectation 61.1090717536518 for cliques of size 13
+nb iter 1288
+ 8 copies of G61 (488) gives expectation 0.23323086261261042 for cliques of size 14
+nb iter 2003
+ 9 copies of G61 (549) gives expectation 306.4120771828256 for cliques of size 13
+nb iter 2003
+ 9 copies of G61 (549) gives expectation 1.3451468364065116 for cliques of size 14
+nb iter 2003
+ 9 copies of G61 (549) gives expectation 0.002718089474295335 for cliques of size 15
+nb iter 3004
+ 10 copies of G61 (610) gives expectation 1277.633966860446 for cliques of size 13
+nb iter 3004
+ 10 copies of G61 (610) gives expectation 6.32982263318759 for cliques of size 14
+nb iter 3004
+ 10 copies of G61 (610) gives expectation 0.014474947226553198 for cliques of size 15
+nb iter 4369
+ 11 copies of G61 (671) gives expectation 25.389995286263368 for cliques of size 14
+nb iter 4369
+ 11 copies of G61 (671) gives expectation 0.06472851010291251 for cliques of size 15
+nb iter 6189
+ 12 copies of G61 (732) gives expectation 89.51936166541434 for cliques of size 14
+nb iter 6189
+ 12 copies of G61 (732) gives expectation 0.25149155788252064 for cliques of size 15
+nb iter 8569
+ 13 copies of G61 (793) gives expectation 283.7289231555768 for cliques of size 14
+nb iter 8569
+ 13 copies of G61 (793) gives expectation 0.8703014385227744 for cliques of size 15
+nb iter 11629
+ 14 copies of G61 (854) gives expectation 822.2144862766995 for cliques of size 14
+nb iter 11629
+ 14 copies of G61 (854) gives expectation 2.7329287161988334 for cliques of size 15
+nb iter 11629
+ 14 copies of G61 (854) gives expectation 0.004232870995573095 for cliques of size 16
+nb iter 15505
+ 15 copies of G61 (915) gives expectation 2207.3365137451 for cliques of size 14
+nb iter 15505
+ 15 copies of G61 (915) gives expectation 7.900405722780914 for cliques of size 15
+nb iter 15505
+ 15 copies of G61 (915) gives expectation 0.013186338085689241 for cliques of size 16
+nb iter 20350
+ 16 copies of G61 (976) gives expectation 21.265115449557676 for cliques of size 15
+nb iter 20350
+ 16 copies of G61 (976) gives expectation 0.03803850013842472 for cliques of size 16
+nb iter 26335
+ 17 copies of G61 (1037) gives expectation 53.783912453060935 for cliques of size 15
+nb iter 26335
+ 17 copies of G61 (1037) gives expectation 0.10262239294813896 for cliques of size 16
+nb iter 33650
+ 18 copies of G61 (1098) gives expectation 128.7793361139199 for cliques of size 15
+nb iter 33650
+ 18 copies of G61 (1098) gives expectation 0.261032167278481 for cliques of size 16
+nb iter 42505
+ 19 copies of G61 (1159) gives expectation 293.7207806729288 for cliques of size 15
+nb iter 42505
+ 19 copies of G61 (1159) gives expectation 0.6302076350758099 for cliques of size 16
+nb iter 53131
+ 20 copies of G61 (1220) gives expectation 641.4579442844836 for cliques of size 15
+nb iter 53131
+ 20 copies of G61 (1220) gives expectation 1.4522496599227712 for cliques of size 16
+nb iter 53131
+ 20 copies of G61 (1220) gives expectation 0.0015423421526666846 for cliques of size 17
+nb iter 65781
+ 21 copies of G61 (1281) gives expectation 1347.2615119968755 for cliques of size 15
+nb iter 65781
+ 21 copies of G61 (1281) gives expectation 3.2093850590467974 for cliques of size 16
+nb iter 65781
+ 21 copies of G61 (1281) gives expectation 0.003587390234344939 for cliques of size 17
+nb iter 80731
+ 22 copies of G61 (1342) gives expectation 6.829346289993769 for cliques of size 16
+nb iter 80731
+ 22 copies of G61 (1342) gives expectation 0.008013747219583625 for cliques of size 17
+nb iter 98281
+ 23 copies of G61 (1403) gives expectation 14.041793130100096 for cliques of size 16
+nb iter 98281
+ 23 copies of G61 (1403) gives expectation 0.017257236253616574 for cliques of size 17
+nb iter 118756
+ 24 copies of G61 (1464) gives expectation 27.980843928634712 for cliques of size 16
+nb iter 118756
+ 24 copies of G61 (1464) gives expectation 0.035940852119279894 for cliques of size 17
+nb iter 142507
+ 25 copies of G61 (1525) gives expectation 54.17964773586087 for cliques of size 16
+nb iter 142507
+ 25 copies of G61 (1525) gives expectation 0.07259566683652054 for cliques of size 17
+nb iter 169912
+ 26 copies of G61 (1586) gives expectation 102.17670629134976 for cliques of size 16
+nb iter 169912
+ 26 copies of G61 (1586) gives expectation 0.14256476502183424 for cliques of size 17
+nb iter 201377
+ 27 copies of G61 (1647) gives expectation 188.05892510980584 for cliques of size 16
+nb iter 201377
+ 27 copies of G61 (1647) gives expectation 0.2727977495172229 for cliques of size 17
+nb iter 237337
+ 28 copies of G61 (1708) gives expectation 338.4143352596398 for cliques of size 16
+nb iter 237337
+ 28 copies of G61 (1708) gives expectation 0.5096093655152913 for cliques of size 17
+nb iter 278257
+ 29 copies of G61 (1769) gives expectation 596.3725389827764 for cliques of size 16
+nb iter 278257
+ 29 copies of G61 (1769) gives expectation 0.9310042879862314 for cliques of size 17
+nb iter 324633
+ 30 copies of G61 (1830) gives expectation 1030.6916626871675 for cliques of size 16
+nb iter 324633
+ 30 copies of G61 (1830) gives expectation 1.6659223729027668 for cliques of size 17
+nb iter 324633
+ 30 copies of G61 (1830) gives expectation 0.0012695079490422372 for cliques of size 18
+nb iter 376993
+ 31 copies of G61 (1891) gives expectation 1749.230321276447 for cliques of size 16
+nb iter 376993
+ 31 copies of G61 (1891) gives expectation 2.9238153108669573 for cliques of size 17
+nb iter 376993
+ 31 copies of G61 (1891) gives expectation 0.0023043382567612234 for cliques of size 18
+nb iter 435898
+ 32 copies of G61 (1952) gives expectation 2918.651121338957 for cliques of size 16
+nb iter 435898
+ 32 copies of G61 (1952) gives expectation 5.039431643502442 for cliques of size 17
+nb iter 435898
+ 32 copies of G61 (1952) gives expectation 0.004103074925846494 for cliques of size 18
+nb iter 501943
+ 33 copies of G61 (2013) gives expectation 8.539697956757069 for cliques of size 17
+nb iter 501943
+ 33 copies of G61 (2013) gives expectation 0.007175455768832464 for cliques of size 18
+nb iter 575758
+ 34 copies of G61 (2074) gives expectation 14.24231292715128 for cliques of size 17
+nb iter 575758
+ 34 copies of G61 (2074) gives expectation 0.012337938504786438 for cliques of size 18
+nb iter 658009
+ 35 copies of G61 (2135) gives expectation 23.399337349109544 for cliques of size 17
+nb iter 658009
+ 35 copies of G61 (2135) gives expectation 0.020879620242870288 for cliques of size 18
+nb iter 749399
+ 36 copies of G61 (2196) gives expectation 37.90394358503601 for cliques of size 17
+nb iter 749399
+ 36 copies of G61 (2196) gives expectation 0.034808538581111506 for cliques of size 18
+nb iter 850669
+ 37 copies of G61 (2257) gives expectation 60.584927132247685 for cliques of size 17
+nb iter 850669
+ 37 copies of G61 (2257) gives expectation 0.05721306557593529 for cliques of size 18
+nb iter 962599
+ 38 copies of G61 (2318) gives expectation 95.62200928040923 for cliques of size 17
+nb iter 962599
+ 38 copies of G61 (2318) gives expectation 0.09278638912963222 for cliques of size 18
+nb iter 1086009
+ 39 copies of G61 (2379) gives expectation 149.12590080843614 for cliques of size 17
+nb iter 1086009
+ 39 copies of G61 (2379) gives expectation 0.14857983184357673 for cliques of size 18
+nb iter 1221760
+ 40 copies of G61 (2440) gives expectation 229.9411988311133 for cliques of size 17
+nb iter 1221760
+ 40 copies of G61 (2440) gives expectation 0.23507429786906087 for cliques of size 18
+nb iter 1370755
+ 41 copies of G61 (2501) gives expectation 350.7482398104868 for cliques of size 17
+nb iter 1370755
+ 41 copies of G61 (2501) gives expectation 0.36769010867207697 for cliques of size 18
+nb iter 1533940
+ 42 copies of G61 (2562) gives expectation 529.5629856359069 for cliques of size 17
+nb iter 1533940
+ 42 copies of G61 (2562) gives expectation 0.5688959373358659 for cliques of size 18
+nb iter 1712305
+ 43 copies of G61 (2623) gives expectation 791.7630268546453 for cliques of size 17
+nb iter 1712305
+ 43 copies of G61 (2623) gives expectation 0.871130014112378 for cliques of size 18
+nb iter 1906885
+ 44 copies of G61 (2684) gives expectation 1172.8042275510863 for cliques of size 17
+nb iter 1906885
+ 44 copies of G61 (2684) gives expectation 1.320814375836356 for cliques of size 18
+nb iter 1906885
+ 44 copies of G61 (2684) gives expectation 0.0007039968170572785 for cliques of size 19
+nb iter 2118761
+ 45 copies of G61 (2745) gives expectation 1721.8380578617841 for cliques of size 17
+nb iter 2118761
+ 45 copies of G61 (2745) gives expectation 1.9838294927659301 for cliques of size 18
+nb iter 2118761
+ 45 copies of G61 (2745) gives expectation 0.001081789155073165 for cliques of size 19
+nb iter 2349061
+ 46 copies of G61 (2806) gives expectation 2506.4962218089386 for cliques of size 17
+nb iter 2349061
+ 46 copies of G61 (2806) gives expectation 2.952926788817882 for cliques of size 18
+nb iter 2349061
+ 46 copies of G61 (2806) gives expectation 0.0016465590388065096 for cliques of size 19
+nb iter 2598961
+ 47 copies of G61 (2867) gives expectation 3619.179109590783 for cliques of size 17
+nb iter 2598961
+ 47 copies of G61 (2867) gives expectation 4.357696027468498 for cliques of size 18
+nb iter 2598961
+ 47 copies of G61 (2867) gives expectation 0.002483446368125407 for cliques of size 19
+nb iter 2869686
+ 48 copies of G61 (2928) gives expectation 6.377880090416537 for cliques of size 18
+nb iter 2869686
+ 48 copies of G61 (2928) gives expectation 0.0037131591182172014 for cliques of size 19
+nb iter 3162511
+ 49 copies of G61 (2989) gives expectation 9.26104953375194 for cliques of size 18
+nb iter 3162511
+ 49 copies of G61 (2989) gives expectation 0.00550556083637787 for cliques of size 19
+nb iter 3478762
+ 50 copies of G61 (3050) gives expectation 13.345923289040321 for cliques of size 18
+nb iter 3478762
+ 50 copies of G61 (3050) gives expectation 0.00809798629147696 for cliques of size 19
+nb iter 3819817
+ 51 copies of G61 (3111) gives expectation 19.09296169717539 for cliques of size 18
+nb iter 3819817
+ 51 copies of G61 (3111) gives expectation 0.0118197771734645 for cliques of size 19
+nb iter 4187107
+ 52 copies of G61 (3172) gives expectation 27.12427763553218 for cliques of size 18
+nb iter 4187107
+ 52 copies of G61 (3172) gives expectation 0.01712495429869294 for cliques of size 19
+nb iter 4582117
+ 53 copies of G61 (3233) gives expectation 38.27542729410391 for cliques of size 18
+nb iter 4582117
+ 53 copies of G61 (3233) gives expectation 0.02463547559906682 for cliques of size 19
+nb iter 5006387
+ 54 copies of G61 (3294) gives expectation 53.662273601724486 for cliques of size 18
+nb iter 5006387
+ 54 copies of G61 (3294) gives expectation 0.03519819480540505 for cliques of size 19
+nb iter 5461513
+ 55 copies of G61 (3355) gives expectation 74.76688523932472 for cliques of size 18
+nb iter 5461513
+ 55 copies of G61 (3355) gives expectation 0.04995946362520724 for cliques of size 19
+nb iter 5949148
+ 56 copies of G61 (3416) gives expectation 103.54736936943979 for cliques of size 18
+nb iter 5949148
+ 56 copies of G61 (3416) gives expectation 0.07046234556205427 for cliques of size 19
+nb iter 6471003
+ 57 copies of G61 (3477) gives expectation 142.57766793006292 for cliques of size 18
+nb iter 6471003
+ 57 copies of G61 (3477) gives expectation 0.09877267425870177 for cliques of size 19
+nb iter 7028848
+ 58 copies of G61 (3538) gives expectation 195.2247120107165 for cliques of size 18
+nb iter 7028848
+ 58 copies of G61 (3538) gives expectation 0.1376417431507507 for cliques of size 19
+nb iter 7624513
+ 59 copies of G61 (3599) gives expectation 265.87196875640217 for cliques of size 18
+nb iter 7624513
+ 59 copies of G61 (3599) gives expectation 0.19071531520743124 for cliques of size 19
+nb iter 8259889
+ 60 copies of G61 (3660) gives expectation 360.2003794361509 for cliques of size 18
+nb iter 8259889
+ 60 copies of G61 (3660) gives expectation 0.2628009611182637 for cliques of size 19
+nb iter 8936929
+ 61 copies of G61 (3721) gives expectation 485.54003238097795 for cliques of size 18
+nb iter 8936929
+ 61 copies of G61 (3721) gives expectation 0.36020855322051826 for cliques of size 19
+time 2484.04894
+[(5, 2), (13, 3), (17, 3), (29, 4), (37, 4), (41, 5), (53, 5), (61, 5)]
+{3: (25.0, 5, 2), 4: (32.8125, 5, 3), 5: (2.9296875, 5, 3), 6: (1.15966796875, 5, 4), 7: (5.22967529296875, 13, 3), 8: (0.89959716796875, 17, 3), 9: (18.109169006347656, 53, 2), 10: (23.904429512447678, 37, 4), 11: (21.81874258253083, 53, 4), 12: (16.151265083726663, 61, 5), 13: (48.605934940720644, 53, 9), 14: (38.966398387208415, 53, 13), 15: (76.68696673974218, 53, 20), 16: (102.17670629134976, 61, 26), 17: (149.12590080843614, 61, 39), 18: (195.2247120107165, 61, 58), 19: (0.36020855322051826, 61, 61)}
+
+Process finished with exit code 0
